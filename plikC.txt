@@ -1,1 +1,1 @@
-To jest zawartosc pliku C
+Zmiana zawartosc pliku C
