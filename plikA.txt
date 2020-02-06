@@ -1,1 +1,1 @@
-Funkcionalnosc A
+To jest zmiana wartosci pliku A
